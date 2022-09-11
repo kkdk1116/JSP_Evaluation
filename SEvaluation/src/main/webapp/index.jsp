@@ -76,6 +76,18 @@
 				<li class="nav-item active">
 					<a class="nav-link" href="index.jsp">메인</a>
 				</li>
+				<li class="nav-item active">
+					<a class="nav-link" href="https://www.google.co.kr/maps/?hl=ko" target="_blank">지도</a>
+				</li>
+				<li class="nav-item active">
+					<a class="nav-link" href="calculator.jsp" target="_blank">계산기</a>
+				</li>
+				<li class="nav-item active">
+					<a class="nav-link" href="https://finance.daum.net/exchanges" target="_blank">환율</a>
+				</li>
+				<li class="nav-item active">
+					<a class="nav-link" href="bbs.jsp">커뮤니티</a>
+				</li>
 				<li class="nav-item dropdown">
 					<a class="nav-link dropdown-toggle" id="dropdown" data-toggle="dropdown">
 						회원 관리
